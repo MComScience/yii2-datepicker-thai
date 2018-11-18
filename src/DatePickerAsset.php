@@ -1,5 +1,5 @@
 <?php
-namespace mcomscience\widgets\datepicker;
+namespace mcomscience\datepicker;
 
 use yii\web\AssetBundle;
 
