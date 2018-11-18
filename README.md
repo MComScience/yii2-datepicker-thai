@@ -3,7 +3,7 @@
 To install
 
 ```
-$ composer require MComScience/yii2-widget-datepicker "*"
+$ composer require m-comscience/yii2-datepicker-thai "@dev"
 ```
 
 ## Usage
