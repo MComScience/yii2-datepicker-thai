@@ -3,7 +3,7 @@
 To install
 
 ```
-$ php composer require MComScience/yii2-widget-datepicker "*"
+$ composer require MComScience/yii2-widget-datepicker "*"
 ```
 
 ## Usage
