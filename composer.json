@@ -2,7 +2,7 @@
     "name": "m-comscience/yii2-datepicker-thai",
     "description": "Yii2 bootstrap datepicker thai.",
     "keywords": ["yii2", "extension", "widget", "datepicker"],
-    "homepage": "https://github.com/MComScience/yii2-widget-datepicker",
+    "homepage": "https://github.com/MComScience/yii2-datepicker-thai.git",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
