@@ -15,7 +15,7 @@ use mcomscience\datepicker\DatePicker;
 echo \yii\helpers\Html::label('Date');
 echo DatePicker::widget([
 	'name' => 'date', 
-	'value' => date('d/m/Y'),
+	'value' => date('d/m/Y'), // 10/10/2561
 	'options' => ['placeholder' => 'Select date ...'],
 	'pluginOptions' => [
             'autoclose' => true,
